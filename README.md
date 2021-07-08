@@ -9,4 +9,4 @@ Different models were added just to test model loading.
 
 Here it's how it looks:
 
-https://user-images.githubusercontent.com/21293825/124925757-0f384d00-dffd-11eb-9758-0c9a5bb60635.mp4
+https://user-images.githubusercontent.com/21293825/124926057-63433180-dffd-11eb-9b39-1865de03430b.mp4
